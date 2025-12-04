@@ -22,7 +22,7 @@ int main(void)
 			printf("-1\n");
 			continue;
 		}
-		printf("%lld",2*b-a);
+		printf("%lld\n",2*b-a);
 	}
 	return 0;
 }
